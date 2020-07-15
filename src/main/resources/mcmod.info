@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minimap",
+  "name": "MiniMap Mod",
+  "description": "Displays a MiniMap on the HUD.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JacobRuby"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
